@@ -16,7 +16,7 @@ Swapix поможет выгодно планировать расходы и п
 - Email: support@swapixapp.com  
 
 ## Политика конфиденциальности
-[Ознакомиться с Privacy Policy](https://your-privacy-policy-link.com)  
+[Ознакомиться с Privacy Policy](https://github.com/smoke0030/Swapix-Support/blob/main/privacy)  
 
 ---
 
